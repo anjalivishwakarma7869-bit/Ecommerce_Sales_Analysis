@@ -80,16 +80,3 @@ This dashboard is built entirely using **Microsoft Excel**.
 
 **Benefit:**  
 Only Excel (2016 or newer) is required to use and explore the dashboard.
-
----
-
-## 💾 How to Use / Access
-
-### **1. Clone or Download**
-Download or clone the repository and locate:
-
-## Future Improvements
-
-- Customer Segmentation Analysis
-- Sales Forecasting
-- Customer Lifetime Value Analysis
